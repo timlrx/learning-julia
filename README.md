@@ -2,6 +2,10 @@
 
 This repository introduces the [Julia programming language](https://julialang.org/) by replicating [Schelling, Thomas C. "Dynamic models of segregation." Journal of mathematical sociology 1.2 (1971): 143-186.](https://scholar.google.com/scholar?cluster=747074237233961749&hl=en&as_sdt=0,5).
 
+## Accompanying post
+
+- [Part 1](https://www.timlrx.com/2020/08/01/schelling-segregation-model-in-julia-part-1/)
+
 ## Why Julia?
 
 [From the creator's themselves:](https://julialang.org/blog/2012/02/why-we-created-julia/)
@@ -26,7 +30,7 @@ There are many other tutorials and introductory material out there that I recomm
 
 I take a slightly different approach. Rather than going over concepts (Types, Loops, Control Statements etc.), I take a problem-driven approach - given a particular problem, how can we solve it using Julia. This is my favourite way to learn something new, try it on an actual problem and see where we end up. The idea is that this will be an incremental learning repository where we learn something new and apply it to our problem.
 
-## Pre-requisities and Setup
+## Pre-requisites and Setup
 
 Some prior experience in lanaguages like Python or R and knowledge of git would be useful.
 
