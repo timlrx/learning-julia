@@ -37,3 +37,13 @@ Some prior experience in lanaguages like Python or R and knowledge of git would 
 For development, this code is written in Julia v1.4, using both the Jupyter Notebook inteface as well as the vscode plugin for editing .jl files.
 
 Follow the instructions over here to setup [Jupyter for Julia](https://julia.quantecon.org/getting_started_julia/getting_started.html) and [julia-vscode plugin](https://www.julia-vscode.org/docs/stable/setup/).
+
+To use from Visual Studio Code
+
+- get Visual Studio Code Insiders
+- Install IJulia from the Julia REPL by pressing ] to enter pkg mode and entering:
+
+    add IJulia
+
+- In Visual Studio Code Insiders, add the Jupyter Notebook extension
+- In Visual Studio Code Insiders, add the Julia extension
